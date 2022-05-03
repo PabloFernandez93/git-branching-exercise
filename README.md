@@ -11,30 +11,31 @@ https://www.notion.so/Branching-Exercise-b5460c881d56400cb046357d9a430bf8
 7. In the patronus.txt file, add the following:
 HARRY'S PATRONUS
 
-   /|       |\\
-`__\\\\       //__'
+   /|       |\
+`__\\       //__'
    ||      ||
- \\__`\\     |'__/
-   `_\\\\   //_'
+ \__`\     |'__/
+   `_\\   //_'
    _.,:---;,._
-   \\_:     :_/
+   \_:     :_/
      |@. .@|
      |     |
-     ,\\.-./ \\
+     ,\.-./ \
      ;;`-'   `---__________-----.-.
-     ;;;                         \\_\\
+     ;;;                         \_\
      ';;;                         |
       ;    |                      ;
-       \\   \\     \\        |      /
-        \\_, \\    /        \\     |\\
-          |';|  |,,,,,,,,/ \\    \\ \\_
-          |  |  |           \\   /   |
-          \\  \\  |           |  / \\  |
+       \   \     \        |      /
+        \_, \    /        \     |\
+          |';|  |,,,,,,,,/ \    \ \_
+          |  |  |           \   /   |
+          \  \  |           |  / \  |
            | || |           | |   | |
            | || |           | |   | |
            | || |           | |   | |
            |_||_|           |_|   |_|
           /_//_/           /_/   /_/
+          
 8. Add and commit the changes, with the commit message "add harry's stag patronus"
 9. Move over to the snape branch using the "older" command to change branches.
 10. Put the following text in the patronus.txt file:
